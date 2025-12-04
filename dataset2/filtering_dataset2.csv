@@ -1,0 +1,8 @@
+sample_id,species,sample_type,weight_mg,pH,pH_category,weight_g
+4,Lavandula angustifolia,flower,420.81,5.69,acidic,0.4208
+6,Lavandula angustifolia,flower,787.07,6.08,acidic,0.7871
+38,Lavandula angustifolia,flower,711.41,5.32,acidic,0.7114
+61,Lavandula angustifolia,flower,454.15,4.07,acidic,0.4542
+68,Lavandula angustifolia,flower,445.76,6.43,acidic,0.4458
+103,Lavandula angustifolia,flower,196.91,5.57,acidic,0.1969
+114,Lavandula angustifolia,flower,648.15,5.1,acidic,0.6482
