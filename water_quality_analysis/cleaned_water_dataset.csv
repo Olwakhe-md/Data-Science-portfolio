@@ -1,0 +1,401 @@
+site_id,region,water_source,pH,turbidity_ntu,dissolved_oxygen_mgL,nitrates_mgL,ec_uscm,sampling_date,ph_category,tb_category,dissolved_oxygen,nitrates,electric_cond,Water_Status,source_type
+W0001,Masvingo,Umzingwane Dam,8.61,99.59,9.31,16.5,672.31,2025-01-01,basic,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Dam
+W0002,Mashonaland East,Manyame River,5.83,110.94,3.56,11.66,438.28,2025-01-02,acidic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,River
+W0003,Matabeleland North,Harare Borehole,7.48,78.51,4.35,4.91,1194.28,2025-01-03,neutral,unsafe,Low (poor),normal(acceptable),unsafe,UNSAFE,Borehole
+W0004,Mashonaland West,Umzingwane Dam,6.36,64.6,11.63,8.21,881.36,2025-01-04,acidic,unsafe,very Good,normal(acceptable),normal(acceptable),UNSAFE,Dam
+W0005,Masvingo,Tugwi-Mukosi Dam,6.77,131.62,4.55,27.85,1005.3,2025-01-05,neutral,unsafe,Low (poor),unsafe,unsafe,UNSAFE,Dam
+W0006,Midlands,Harare Borehole,7.25,63.21,8.62,20.28,415.85,2025-01-06,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0007,Mashonaland Central,Save River,6.81,69.83,11.79,14.88,369.33,2025-01-07,neutral,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,River
+W0008,Masvingo,Mutare Borehole,7.9,148.56,5.74,0.38,758.14,2025-01-08,basic,unsafe,normal(healthy),Low (safe),normal(acceptable),UNSAFE,Borehole
+W0009,Matabeleland North,Save River,7.27,1.04,2.18,29.77,1119.47,2025-01-09,neutral,Low Clear,Low (poor),unsafe,unsafe,UNSAFE,River
+W0010,Mashonaland West,Umzingwane Dam,7.66,28.64,4.44,20.14,811.6,2025-01-10,basic,normal,Low (poor),unsafe,normal(acceptable),UNSAFE,Dam
+W0011,Mashonaland East,Tugwi-Mukosi Dam,8.23,58.21,10.31,9.51,97.34,2025-01-11,basic,unsafe,very Good,normal(acceptable),Low (fresh),UNSAFE,Dam
+W0012,Matabeleland North,Gweru Borehole,7.56,139.96,10.65,26.38,1309.4,2025-01-12,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0013,Matabeleland North,Umzingwane Dam,7.67,11.43,9.69,7.75,143.8,2025-01-13,basic,normal,very Good,normal(acceptable),Low (fresh),SAFE,Dam
+W0014,Mashonaland Central,Manyame River,7.59,2.41,3.13,16.32,1435.95,2025-01-14,basic,Low Clear,Low (poor),unsafe,unsafe,UNSAFE,River
+W0015,Manicaland,Gwayi River,6.9,8.85,9.96,19.08,86.46,2025-01-15,neutral,normal,very Good,unsafe,Low (fresh),UNSAFE,River
+W0016,Mashonaland West,Umzingwane Dam,6.75,14.19,11.19,6.63,1056.95,2025-01-16,neutral,normal,very Good,normal(acceptable),unsafe,UNSAFE,Dam
+W0017,Bulawayo,Mutare Borehole,8.83,6.6,8.01,29.35,169.2,2025-01-17,basic,normal,normal(healthy),unsafe,Low (fresh),UNSAFE,Borehole
+W0018,Matabeleland North,Mutare Borehole,7.75,72.49,11.41,22.45,1370.48,2025-01-18,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0019,Manicaland,Umzingwane Dam,6.4,87.53,10.27,16.73,723.43,2025-01-19,acidic,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Dam
+W0020,Bulawayo,Harare Borehole,7.34,41.48,8.67,5.42,249.41,2025-01-20,neutral,normal,normal(healthy),normal(acceptable),Low (fresh),SAFE,Borehole
+W0021,Mashonaland West,Gwayi River,6.72,60.34,7.77,1.62,544.18,2025-01-21,neutral,unsafe,normal(healthy),Low (safe),normal(acceptable),UNSAFE,River
+W0022,Harare,Manyame River,8.95,14.66,5.49,9.6,289.0,2025-01-22,basic,normal,normal(healthy),normal(acceptable),Low (fresh),UNSAFE,River
+W0023,Midlands,Umzingwane Dam,5.53,51.12,3.59,22.6,297.34,2025-01-23,acidic,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Dam
+W0024,Manicaland,Harare Borehole,6.33,78.86,8.05,8.08,1424.76,2025-01-24,acidic,unsafe,normal(healthy),normal(acceptable),unsafe,UNSAFE,Borehole
+W0025,Matabeleland South,Mutare Borehole,6.85,110.11,5.18,16.19,695.61,2025-01-25,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0026,Harare,Mutare Borehole,7.3,1.5,10.66,21.84,1193.76,2025-01-26,neutral,Low Clear,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0027,Midlands,Tugwi-Mukosi Dam,8.65,70.63,11.93,3.24,977.43,2025-01-27,basic,unsafe,very Good,normal(acceptable),normal(acceptable),UNSAFE,Dam
+W0028,Mashonaland Central,Umzingwane Dam,5.83,45.25,9.52,20.56,1030.82,2025-01-28,acidic,normal,very Good,unsafe,unsafe,UNSAFE,Dam
+W0029,Masvingo,Gwayi River,8.48,128.07,2.9,2.76,240.96,2025-01-29,basic,unsafe,Low (poor),Low (safe),Low (fresh),UNSAFE,River
+W0030,Mashonaland East,Mazowe River,5.71,107.62,4.89,28.95,389.57,2025-01-30,acidic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,River
+W0031,Matabeleland South,Gwayi River,8.62,88.78,3.09,14.65,1190.79,2025-01-31,basic,unsafe,Low (poor),unsafe,unsafe,UNSAFE,River
+W0032,Mashonaland Central,Mutare Borehole,5.69,42.31,8.51,4.52,1457.61,2025-02-01,acidic,normal,normal(healthy),normal(acceptable),unsafe,UNSAFE,Borehole
+W0033,Mashonaland West,Mutare Borehole,5.57,136.64,9.65,10.27,430.88,2025-02-02,acidic,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0034,Mashonaland Central,Save River,8.08,7.72,11.26,12.4,443.77,2025-02-03,basic,normal,very Good,unsafe,normal(acceptable),UNSAFE,River
+W0035,Masvingo,Mutare Borehole,9.19,17.31,6.38,22.75,735.7,2025-02-04,basic,normal,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0036,Mashonaland West,Manyame River,8.82,59.35,11.01,22.3,1476.57,2025-02-05,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,River
+W0037,Matabeleland South,Bulawayo Borehole,7.63,19.54,10.78,18.36,439.99,2025-02-06,basic,normal,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0038,Masvingo,Umzingwane Dam,8.89,143.51,5.17,3.18,640.11,2025-02-07,basic,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,Dam
+W0039,Bulawayo,Gwayi River,5.52,119.9,10.69,4.55,1342.65,2025-02-08,acidic,unsafe,very Good,normal(acceptable),unsafe,UNSAFE,River
+W0040,Mashonaland East,Bulawayo Borehole,9.11,39.59,5.76,2.81,54.24,2025-02-09,basic,normal,normal(healthy),Low (safe),Low (fresh),UNSAFE,Borehole
+W0041,Matabeleland South,Harare Borehole,7.32,88.69,4.97,17.32,107.66,2025-02-10,neutral,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Borehole
+W0042,Bulawayo,Mazowe River,8.17,147.37,8.49,26.31,925.9,2025-02-11,basic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0043,Midlands,Manyame River,8.54,132.75,5.28,13.01,1365.7,2025-02-12,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0044,Matabeleland South,Gwayi River,8.16,90.52,8.3,4.83,396.34,2025-02-13,basic,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,River
+W0045,Midlands,Bulawayo Borehole,7.48,135.65,8.1,16.74,730.98,2025-02-14,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0046,Mashonaland West,Mazowe River,7.26,148.39,7.63,24.35,703.17,2025-02-15,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0047,Bulawayo,Save River,8.6,111.76,5.8,22.25,735.81,2025-02-16,basic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0048,Mashonaland East,Manyame River,6.26,10.68,7.48,26.44,952.65,2025-02-17,acidic,normal,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0049,Masvingo,Manyame River,9.08,60.84,7.96,8.34,731.13,2025-02-18,basic,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,River
+W0050,Matabeleland North,Save River,8.13,125.84,7.46,5.82,698.83,2025-02-19,basic,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,River
+W0051,Mashonaland Central,Umzingwane Dam,6.24,35.35,6.44,26.39,737.72,2025-02-20,acidic,normal,normal(healthy),unsafe,normal(acceptable),UNSAFE,Dam
+W0052,Harare,Save River,8.22,124.77,2.15,19.73,906.76,2025-02-21,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,River
+W0053,Mashonaland East,Manyame River,7.46,18.93,7.87,9.33,828.66,2025-02-22,neutral,normal,normal(healthy),normal(acceptable),normal(acceptable),SAFE,River
+W0054,Bulawayo,Manyame River,8.12,7.99,3.68,22.27,1288.5,2025-02-23,basic,normal,Low (poor),unsafe,unsafe,UNSAFE,River
+W0055,Matabeleland North,Bulawayo Borehole,8.34,58.23,8.43,24.45,121.77,2025-02-24,basic,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,Borehole
+W0056,Mashonaland East,Mutare Borehole,5.82,6.47,9.59,18.45,1258.31,2025-02-25,acidic,normal,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0057,Bulawayo,Mazowe River,7.37,143.63,7.0,20.64,1273.69,2025-02-26,neutral,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0058,Manicaland,Save River,8.95,124.1,7.42,11.26,463.12,2025-02-27,basic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0059,Manicaland,Mazowe River,6.69,120.31,11.51,16.16,721.14,2025-02-28,neutral,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,River
+W0060,Midlands,Save River,7.7,94.84,10.47,15.72,685.88,2025-03-01,basic,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,River
+W0061,Mashonaland East,Harare Borehole,6.87,33.23,11.14,25.44,366.84,2025-03-02,neutral,normal,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0062,Manicaland,Manyame River,7.18,78.22,10.14,25.2,625.36,2025-03-03,neutral,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,River
+W0063,Bulawayo,Mutare Borehole,7.53,89.99,3.09,24.98,114.36,2025-03-04,basic,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Borehole
+W0064,Midlands,Bulawayo Borehole,7.53,79.23,3.49,0.33,452.84,2025-03-05,basic,unsafe,Low (poor),Low (safe),normal(acceptable),UNSAFE,Borehole
+W0065,Bulawayo,Mutare Borehole,6.25,39.77,7.27,22.49,1234.19,2025-03-06,acidic,normal,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0066,Midlands,Mutare Borehole,8.03,77.77,4.46,22.76,462.62,2025-03-07,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0067,Mashonaland East,Mutare Borehole,5.83,74.19,6.77,20.35,1236.4,2025-03-08,acidic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0068,Matabeleland North,Mazowe River,6.01,149.45,5.94,22.69,820.82,2025-03-09,acidic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0069,Masvingo,Save River,5.51,134.72,7.49,25.26,1325.8,2025-03-10,acidic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0070,Matabeleland South,Gweru Borehole,5.93,70.04,9.47,14.11,883.43,2025-03-11,acidic,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0071,Matabeleland North,Harare Borehole,7.25,93.82,9.15,15.06,93.02,2025-03-12,neutral,unsafe,very Good,unsafe,Low (fresh),UNSAFE,Borehole
+W0072,Mashonaland West,Gwayi River,7.74,112.43,7.21,3.74,1029.36,2025-03-13,basic,unsafe,normal(healthy),normal(acceptable),unsafe,UNSAFE,River
+W0073,Bulawayo,Mutare Borehole,8.44,6.19,10.22,11.56,115.04,2025-03-14,basic,normal,very Good,unsafe,Low (fresh),UNSAFE,Borehole
+W0074,Mashonaland West,Umzingwane Dam,5.89,134.34,6.31,19.3,703.37,2025-03-15,acidic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Dam
+W0075,Matabeleland North,Mazowe River,8.65,129.16,10.97,23.41,1397.67,2025-03-16,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,River
+W0076,Midlands,Bulawayo Borehole,8.26,69.16,2.71,6.52,289.55,2025-03-17,basic,unsafe,Low (poor),normal(acceptable),Low (fresh),UNSAFE,Borehole
+W0077,Matabeleland South,Gwayi River,7.01,59.28,11.55,4.13,615.31,2025-03-18,neutral,unsafe,very Good,normal(acceptable),normal(acceptable),UNSAFE,River
+W0078,Matabeleland South,Gweru Borehole,8.95,41.67,8.55,19.89,1108.3,2025-03-19,basic,normal,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0079,Harare,Umzingwane Dam,9.17,72.02,5.8,0.06,1329.27,2025-03-20,basic,unsafe,normal(healthy),Low (safe),unsafe,UNSAFE,Dam
+W0080,Matabeleland South,Gweru Borehole,6.26,7.61,3.97,5.35,1022.87,2025-03-21,acidic,normal,Low (poor),normal(acceptable),unsafe,UNSAFE,Borehole
+W0081,Masvingo,Gwayi River,6.9,127.98,6.79,0.87,424.35,2025-03-22,neutral,unsafe,normal(healthy),Low (safe),normal(acceptable),UNSAFE,River
+W0082,Matabeleland South,Mutare Borehole,8.93,6.28,3.95,5.01,1028.18,2025-03-23,basic,normal,Low (poor),normal(acceptable),unsafe,UNSAFE,Borehole
+W0083,Matabeleland North,Umzingwane Dam,8.17,50.03,3.66,5.44,480.26,2025-03-24,basic,unsafe,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,Dam
+W0084,Harare,Gweru Borehole,5.68,139.81,8.17,11.63,1091.72,2025-03-25,acidic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0085,Matabeleland North,Bulawayo Borehole,8.39,110.55,7.23,12.07,1433.35,2025-03-26,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0086,Matabeleland North,Save River,8.56,42.93,8.7,26.23,1096.02,2025-03-27,basic,normal,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0087,Mashonaland Central,Manyame River,8.28,38.64,11.3,15.3,1301.18,2025-03-28,basic,normal,very Good,unsafe,unsafe,UNSAFE,River
+W0088,Harare,Save River,8.46,1.76,7.32,21.7,53.05,2025-03-29,basic,Low Clear,normal(healthy),unsafe,Low (fresh),UNSAFE,River
+W0089,Matabeleland North,Gwayi River,8.55,104.66,7.81,3.12,1090.48,2025-03-30,basic,unsafe,normal(healthy),normal(acceptable),unsafe,UNSAFE,River
+W0090,Mashonaland Central,Mazowe River,6.19,8.27,2.9,6.76,1252.9,2025-03-31,acidic,normal,Low (poor),normal(acceptable),unsafe,UNSAFE,River
+W0091,Mashonaland Central,Manyame River,6.37,80.36,9.18,21.09,108.81,2025-04-01,acidic,unsafe,very Good,unsafe,Low (fresh),UNSAFE,River
+W0092,Harare,Harare Borehole,7.84,144.36,6.0,1.58,1313.82,2025-04-02,basic,unsafe,normal(healthy),Low (safe),unsafe,UNSAFE,Borehole
+W0093,Mashonaland West,Bulawayo Borehole,8.86,17.31,11.77,14.6,422.21,2025-04-03,basic,normal,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0094,Midlands,Harare Borehole,6.67,134.28,10.23,17.98,1014.67,2025-04-04,neutral,unsafe,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0095,Masvingo,Umzingwane Dam,7.68,148.73,7.22,18.06,1210.51,2025-04-05,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Dam
+W0096,Midlands,Manyame River,8.03,10.17,3.23,0.69,1010.86,2025-04-06,basic,normal,Low (poor),Low (safe),unsafe,UNSAFE,River
+W0097,Matabeleland South,Harare Borehole,7.17,132.55,10.59,9.66,183.81,2025-04-07,neutral,unsafe,very Good,normal(acceptable),Low (fresh),UNSAFE,Borehole
+W0098,Masvingo,Harare Borehole,8.14,77.9,10.0,19.09,914.67,2025-04-08,basic,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0099,Matabeleland South,Gweru Borehole,8.83,136.07,3.85,4.47,846.9,2025-04-09,basic,unsafe,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,Borehole
+W0100,Matabeleland North,Save River,7.81,86.13,4.95,20.86,1355.47,2025-04-10,basic,unsafe,Low (poor),unsafe,unsafe,UNSAFE,River
+W0101,Bulawayo,Gweru Borehole,7.5,99.65,9.93,22.38,636.15,2025-04-11,neutral,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0102,Harare,Manyame River,7.12,82.02,3.85,29.46,515.57,2025-04-12,neutral,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,River
+W0103,Masvingo,Manyame River,7.64,129.81,11.18,6.3,1137.28,2025-04-13,basic,unsafe,very Good,normal(acceptable),unsafe,UNSAFE,River
+W0104,Masvingo,Gwayi River,6.81,110.35,6.25,24.75,648.38,2025-04-14,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0105,Matabeleland North,Gweru Borehole,6.95,78.67,2.87,15.61,986.84,2025-04-15,neutral,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0106,Mashonaland West,Tugwi-Mukosi Dam,7.47,130.36,10.16,11.2,987.35,2025-04-16,neutral,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Dam
+W0107,Mashonaland Central,Save River,5.75,37.55,5.74,3.67,1337.66,2025-04-17,acidic,normal,normal(healthy),normal(acceptable),unsafe,UNSAFE,River
+W0108,Matabeleland North,Manyame River,6.35,24.44,7.26,22.07,918.1,2025-04-18,acidic,normal,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0109,Manicaland,Gwayi River,7.51,24.9,3.12,7.08,778.12,2025-04-19,basic,normal,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,River
+W0110,Mashonaland Central,Gweru Borehole,7.1,50.77,2.03,11.14,251.36,2025-04-20,neutral,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Borehole
+W0111,Harare,Save River,6.73,36.56,8.38,1.88,217.82,2025-04-21,neutral,normal,normal(healthy),Low (safe),Low (fresh),SAFE,River
+W0112,Mashonaland Central,Gweru Borehole,8.2,139.58,7.15,24.04,273.77,2025-04-22,basic,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,Borehole
+W0113,Mashonaland West,Harare Borehole,8.07,16.77,7.94,23.0,299.18,2025-04-23,basic,normal,normal(healthy),unsafe,Low (fresh),UNSAFE,Borehole
+W0114,Mashonaland Central,Gwayi River,6.12,105.15,9.94,22.01,974.92,2025-04-24,acidic,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,River
+W0115,Harare,Save River,8.75,29.19,8.47,8.98,1124.42,2025-04-25,basic,normal,normal(healthy),normal(acceptable),unsafe,UNSAFE,River
+W0116,Mashonaland West,Mutare Borehole,7.33,132.36,3.75,5.2,818.49,2025-04-26,neutral,unsafe,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,Borehole
+W0117,Midlands,Umzingwane Dam,8.24,144.24,5.61,19.13,1252.08,2025-04-27,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Dam
+W0118,Masvingo,Umzingwane Dam,7.62,70.36,11.06,14.88,1487.33,2025-04-28,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,Dam
+W0119,Masvingo,Save River,9.19,131.98,9.7,5.35,1239.02,2025-04-29,basic,unsafe,very Good,normal(acceptable),unsafe,UNSAFE,River
+W0120,Matabeleland South,Gweru Borehole,8.28,1.77,7.57,20.58,1057.58,2025-04-30,basic,Low Clear,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0121,Midlands,Gwayi River,8.12,123.17,4.56,29.73,822.11,2025-05-01,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,River
+W0122,Midlands,Umzingwane Dam,8.38,35.07,5.02,22.42,700.84,2025-05-02,basic,normal,normal(healthy),unsafe,normal(acceptable),UNSAFE,Dam
+W0123,Mashonaland Central,Gwayi River,6.03,136.4,9.32,22.2,172.37,2025-05-03,acidic,unsafe,very Good,unsafe,Low (fresh),UNSAFE,River
+W0124,Masvingo,Umzingwane Dam,6.26,1.17,10.51,28.51,629.08,2025-05-04,acidic,Low Clear,very Good,unsafe,normal(acceptable),UNSAFE,Dam
+W0125,Harare,Harare Borehole,8.14,83.87,8.71,6.09,1369.7,2025-05-05,basic,unsafe,normal(healthy),normal(acceptable),unsafe,UNSAFE,Borehole
+W0126,Mashonaland East,Gweru Borehole,7.33,113.74,10.1,16.97,1221.63,2025-05-06,neutral,unsafe,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0127,Mashonaland East,Harare Borehole,8.29,39.54,9.67,29.39,363.27,2025-05-07,basic,normal,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0128,Mashonaland West,Umzingwane Dam,5.88,29.78,3.5,4.96,726.58,2025-05-08,acidic,normal,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,Dam
+W0129,Masvingo,Mutare Borehole,7.48,13.53,6.24,21.01,1234.25,2025-05-09,neutral,normal,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0130,Masvingo,Mutare Borehole,6.9,49.64,3.53,17.57,147.71,2025-05-10,neutral,normal,Low (poor),unsafe,Low (fresh),UNSAFE,Borehole
+W0131,Mashonaland East,Harare Borehole,7.19,84.42,4.35,17.59,611.72,2025-05-11,neutral,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0132,Masvingo,Mutare Borehole,7.73,18.26,10.69,20.93,1285.17,2025-05-12,basic,normal,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0133,Mashonaland Central,Umzingwane Dam,7.36,57.13,6.73,27.89,635.65,2025-05-13,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Dam
+W0134,Manicaland,Save River,7.5,2.35,7.35,23.48,162.54,2025-05-14,neutral,Low Clear,normal(healthy),unsafe,Low (fresh),UNSAFE,River
+W0135,Bulawayo,Harare Borehole,7.3,122.98,3.78,1.68,836.67,2025-05-15,neutral,unsafe,Low (poor),Low (safe),normal(acceptable),UNSAFE,Borehole
+W0136,Midlands,Mazowe River,7.01,20.14,5.12,25.58,1299.53,2025-05-16,neutral,normal,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0137,Matabeleland South,Gweru Borehole,8.36,43.22,4.3,6.77,905.91,2025-05-17,basic,normal,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,Borehole
+W0138,Mashonaland West,Mutare Borehole,5.55,3.75,4.06,11.31,378.1,2025-05-18,acidic,Low Clear,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0139,Manicaland,Mutare Borehole,7.71,65.4,8.38,13.85,607.15,2025-05-19,basic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0140,Mashonaland East,Manyame River,7.59,126.18,4.57,14.43,702.68,2025-05-20,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,River
+W0141,Midlands,Tugwi-Mukosi Dam,8.15,59.43,8.32,13.06,889.94,2025-05-21,basic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Dam
+W0142,Masvingo,Harare Borehole,7.72,27.75,2.58,28.12,1151.06,2025-05-22,basic,normal,Low (poor),unsafe,unsafe,UNSAFE,Borehole
+W0143,Matabeleland South,Bulawayo Borehole,8.56,113.3,3.42,21.18,193.37,2025-05-23,basic,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Borehole
+W0144,Masvingo,Mutare Borehole,9.05,118.53,4.75,18.94,1340.0,2025-05-24,basic,unsafe,Low (poor),unsafe,unsafe,UNSAFE,Borehole
+W0145,Harare,Gweru Borehole,6.77,26.89,7.97,1.5,67.85,2025-05-25,neutral,normal,normal(healthy),Low (safe),Low (fresh),SAFE,Borehole
+W0146,Harare,Mazowe River,6.34,115.86,8.76,27.12,586.58,2025-05-26,acidic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0147,Matabeleland South,Mutare Borehole,7.07,142.15,6.43,27.28,89.76,2025-05-27,neutral,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,Borehole
+W0148,Matabeleland South,Mazowe River,6.57,25.79,6.46,23.41,619.81,2025-05-28,neutral,normal,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0149,Mashonaland East,Umzingwane Dam,7.78,115.88,9.25,0.21,812.43,2025-05-29,basic,unsafe,very Good,Low (safe),normal(acceptable),UNSAFE,Dam
+W0150,Matabeleland South,Umzingwane Dam,8.87,106.58,2.16,1.72,791.94,2025-05-30,basic,unsafe,Low (poor),Low (safe),normal(acceptable),UNSAFE,Dam
+W0151,Mashonaland Central,Tugwi-Mukosi Dam,6.01,71.56,5.41,6.76,290.16,2025-05-31,acidic,unsafe,normal(healthy),normal(acceptable),Low (fresh),UNSAFE,Dam
+W0152,Masvingo,Save River,5.87,9.63,10.19,3.94,986.32,2025-06-01,acidic,normal,very Good,normal(acceptable),normal(acceptable),UNSAFE,River
+W0153,Manicaland,Bulawayo Borehole,6.45,12.13,8.03,11.97,114.93,2025-06-02,acidic,normal,normal(healthy),unsafe,Low (fresh),UNSAFE,Borehole
+W0154,Matabeleland North,Manyame River,8.19,128.01,5.37,27.68,1154.76,2025-06-03,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0155,Matabeleland South,Tugwi-Mukosi Dam,7.69,148.53,11.06,14.16,1422.63,2025-06-04,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,Dam
+W0156,Mashonaland West,Gwayi River,5.88,101.73,9.73,0.4,542.66,2025-06-05,acidic,unsafe,very Good,Low (safe),normal(acceptable),UNSAFE,River
+W0157,Harare,Manyame River,8.9,67.45,4.65,8.48,800.0,2025-06-06,basic,unsafe,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,River
+W0158,Mashonaland Central,Harare Borehole,8.42,97.49,8.45,1.34,599.42,2025-06-07,basic,unsafe,normal(healthy),Low (safe),normal(acceptable),UNSAFE,Borehole
+W0159,Midlands,Gweru Borehole,5.59,89.56,7.96,1.09,59.73,2025-06-08,acidic,unsafe,normal(healthy),Low (safe),Low (fresh),UNSAFE,Borehole
+W0160,Matabeleland North,Gwayi River,7.91,58.16,6.01,8.27,609.52,2025-06-09,basic,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,River
+W0161,Manicaland,Gwayi River,8.35,10.78,5.67,8.27,1197.99,2025-06-10,basic,normal,normal(healthy),normal(acceptable),unsafe,UNSAFE,River
+W0162,Matabeleland North,Tugwi-Mukosi Dam,6.89,123.41,5.44,23.61,914.18,2025-06-11,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Dam
+W0163,Matabeleland South,Save River,5.76,56.4,8.17,29.25,196.83,2025-06-12,acidic,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,River
+W0164,Mashonaland East,Tugwi-Mukosi Dam,5.79,123.0,6.42,11.14,1278.35,2025-06-13,acidic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Dam
+W0165,Harare,Harare Borehole,5.89,38.62,10.32,12.87,820.07,2025-06-14,acidic,normal,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0166,Harare,Mutare Borehole,8.61,1.15,8.7,25.34,1270.5,2025-06-15,basic,Low Clear,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0167,Midlands,Mutare Borehole,8.87,24.68,2.7,8.04,891.32,2025-06-16,basic,normal,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,Borehole
+W0168,Mashonaland East,Save River,5.95,70.81,8.4,4.69,861.55,2025-06-17,acidic,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,River
+W0169,Masvingo,Harare Borehole,6.37,141.7,4.71,25.59,202.63,2025-06-18,acidic,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Borehole
+W0170,Bulawayo,Save River,6.11,16.23,7.93,1.4,292.67,2025-06-19,acidic,normal,normal(healthy),Low (safe),Low (fresh),UNSAFE,River
+W0171,Mashonaland Central,Mazowe River,6.19,128.28,8.8,18.59,1459.44,2025-06-20,acidic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0172,Harare,Mutare Borehole,8.6,79.53,4.31,16.86,381.31,2025-06-21,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0173,Mashonaland West,Gwayi River,6.73,124.06,6.57,10.38,1467.31,2025-06-22,neutral,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0174,Harare,Bulawayo Borehole,6.65,45.46,3.9,9.46,821.27,2025-06-23,neutral,normal,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,Borehole
+W0175,Matabeleland North,Gweru Borehole,6.34,126.15,2.52,23.16,246.89,2025-06-24,acidic,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Borehole
+W0176,Harare,Harare Borehole,7.75,116.15,5.78,2.59,193.99,2025-06-25,basic,unsafe,normal(healthy),Low (safe),Low (fresh),UNSAFE,Borehole
+W0177,Harare,Manyame River,6.9,35.28,5.63,7.1,352.85,2025-06-26,neutral,normal,normal(healthy),normal(acceptable),normal(acceptable),SAFE,River
+W0178,Bulawayo,Save River,8.25,20.57,11.95,21.97,1392.17,2025-06-27,basic,normal,very Good,unsafe,unsafe,UNSAFE,River
+W0179,Bulawayo,Gweru Borehole,6.26,130.34,6.46,16.45,650.52,2025-06-28,acidic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0180,Manicaland,Manyame River,8.41,144.52,5.34,3.84,623.38,2025-06-29,basic,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,River
+W0181,Masvingo,Gweru Borehole,7.73,5.66,7.8,26.46,504.15,2025-06-30,basic,normal,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0182,Mashonaland West,Bulawayo Borehole,5.92,109.96,2.89,11.8,263.24,2025-07-01,acidic,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Borehole
+W0183,Harare,Manyame River,7.03,136.52,11.62,24.84,757.38,2025-07-02,neutral,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,River
+W0184,Harare,Tugwi-Mukosi Dam,8.7,128.75,8.35,23.63,238.57,2025-07-03,basic,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,Dam
+W0185,Mashonaland Central,Umzingwane Dam,8.91,144.71,9.55,18.73,1261.45,2025-07-04,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,Dam
+W0186,Bulawayo,Tugwi-Mukosi Dam,7.22,114.25,3.7,14.83,587.08,2025-07-05,neutral,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Dam
+W0187,Mashonaland West,Mutare Borehole,7.28,66.9,6.09,29.39,593.47,2025-07-06,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0188,Midlands,Umzingwane Dam,8.9,47.48,6.23,4.35,737.31,2025-07-07,basic,normal,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,Dam
+W0189,Manicaland,Tugwi-Mukosi Dam,7.67,48.79,10.22,21.75,693.99,2025-07-08,basic,normal,very Good,unsafe,normal(acceptable),UNSAFE,Dam
+W0190,Masvingo,Umzingwane Dam,5.62,108.94,2.01,5.74,1492.54,2025-07-09,acidic,unsafe,Low (poor),normal(acceptable),unsafe,UNSAFE,Dam
+W0191,Mashonaland East,Umzingwane Dam,8.88,112.13,5.01,10.15,840.8,2025-07-10,basic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Dam
+W0192,Masvingo,Gwayi River,6.42,30.85,11.81,9.26,177.89,2025-07-11,acidic,normal,very Good,normal(acceptable),Low (fresh),UNSAFE,River
+W0193,Matabeleland North,Save River,7.64,130.35,6.75,28.41,929.97,2025-07-12,basic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0194,Harare,Save River,6.11,107.52,5.83,29.02,269.8,2025-07-13,acidic,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,River
+W0195,Manicaland,Gwayi River,5.63,84.85,3.2,5.49,94.86,2025-07-14,acidic,unsafe,Low (poor),normal(acceptable),Low (fresh),UNSAFE,River
+W0196,Matabeleland North,Gweru Borehole,6.65,71.26,11.74,0.66,1457.58,2025-07-15,neutral,unsafe,very Good,Low (safe),unsafe,UNSAFE,Borehole
+W0197,Mashonaland West,Mazowe River,8.39,81.94,2.2,21.6,1171.63,2025-07-16,basic,unsafe,Low (poor),unsafe,unsafe,UNSAFE,River
+W0198,Mashonaland East,Gweru Borehole,6.53,24.73,9.37,12.54,1471.16,2025-07-17,neutral,normal,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0199,Bulawayo,Manyame River,6.31,31.35,9.69,2.67,742.92,2025-07-18,acidic,normal,very Good,Low (safe),normal(acceptable),UNSAFE,River
+W0200,Manicaland,Manyame River,6.29,14.58,4.44,20.51,821.77,2025-07-19,acidic,normal,Low (poor),unsafe,normal(acceptable),UNSAFE,River
+W0201,Manicaland,Umzingwane Dam,7.41,23.9,8.72,16.35,294.09,2025-07-20,neutral,normal,normal(healthy),unsafe,Low (fresh),UNSAFE,Dam
+W0202,Harare,Tugwi-Mukosi Dam,9.11,68.6,2.93,29.42,408.02,2025-07-21,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Dam
+W0203,Matabeleland South,Tugwi-Mukosi Dam,7.2,80.02,4.57,6.82,1265.9,2025-07-22,neutral,unsafe,Low (poor),normal(acceptable),unsafe,UNSAFE,Dam
+W0204,Manicaland,Save River,7.56,3.66,9.88,12.12,566.47,2025-07-23,basic,Low Clear,very Good,unsafe,normal(acceptable),UNSAFE,River
+W0205,Mashonaland Central,Harare Borehole,8.68,119.72,10.65,16.28,1248.88,2025-07-24,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0206,Mashonaland East,Gweru Borehole,7.48,44.83,8.08,23.75,1078.07,2025-07-25,neutral,normal,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0207,Mashonaland East,Mutare Borehole,6.18,136.86,7.07,16.47,306.9,2025-07-26,acidic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0208,Mashonaland Central,Bulawayo Borehole,6.61,145.16,3.59,18.39,785.8,2025-07-27,neutral,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0209,Midlands,Tugwi-Mukosi Dam,6.65,28.63,2.63,6.78,1032.21,2025-07-28,neutral,normal,Low (poor),normal(acceptable),unsafe,UNSAFE,Dam
+W0210,Mashonaland Central,Bulawayo Borehole,6.97,69.85,3.18,25.41,390.8,2025-07-29,neutral,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0211,Mashonaland Central,Umzingwane Dam,7.08,1.18,4.27,12.86,1254.5,2025-07-30,neutral,Low Clear,Low (poor),unsafe,unsafe,UNSAFE,Dam
+W0212,Mashonaland East,Bulawayo Borehole,8.46,90.15,5.42,4.23,840.0,2025-07-31,basic,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,Borehole
+W0213,Masvingo,Mutare Borehole,6.79,91.49,5.81,19.93,289.6,2025-08-01,neutral,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,Borehole
+W0214,Mashonaland East,Gwayi River,7.23,37.88,5.46,6.48,895.33,2025-08-02,neutral,normal,normal(healthy),normal(acceptable),normal(acceptable),SAFE,River
+W0215,Matabeleland South,Mutare Borehole,7.81,84.2,4.39,2.93,1499.59,2025-08-03,basic,unsafe,Low (poor),Low (safe),unsafe,UNSAFE,Borehole
+W0216,Harare,Bulawayo Borehole,6.9,34.61,7.1,25.86,268.26,2025-08-04,neutral,normal,normal(healthy),unsafe,Low (fresh),UNSAFE,Borehole
+W0217,Matabeleland North,Mutare Borehole,8.6,24.96,10.25,13.8,1234.3,2025-08-05,basic,normal,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0218,Masvingo,Mazowe River,7.67,98.08,4.8,22.48,350.6,2025-08-06,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,River
+W0219,Bulawayo,Umzingwane Dam,6.59,49.56,11.42,8.72,1184.46,2025-08-07,neutral,normal,very Good,normal(acceptable),unsafe,UNSAFE,Dam
+W0220,Matabeleland North,Gweru Borehole,8.14,88.95,10.73,23.61,1115.14,2025-08-08,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0221,Harare,Gwayi River,7.45,65.55,3.62,3.36,485.71,2025-08-09,neutral,unsafe,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,River
+W0222,Matabeleland South,Tugwi-Mukosi Dam,7.48,147.67,9.86,10.68,522.44,2025-08-10,neutral,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Dam
+W0223,Matabeleland South,Manyame River,7.28,23.29,7.75,29.34,1199.16,2025-08-11,neutral,normal,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0224,Bulawayo,Gweru Borehole,7.34,70.23,7.67,23.82,719.1,2025-08-12,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0225,Masvingo,Manyame River,8.33,102.39,5.91,14.92,1109.69,2025-08-13,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0226,Midlands,Umzingwane Dam,5.88,59.94,7.01,10.19,264.58,2025-08-14,acidic,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,Dam
+W0227,Mashonaland Central,Gwayi River,6.74,146.23,5.97,26.16,1286.21,2025-08-15,neutral,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0228,Masvingo,Save River,5.78,108.56,7.4,16.35,1080.78,2025-08-16,acidic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0229,Midlands,Tugwi-Mukosi Dam,8.29,98.89,8.28,22.75,1365.07,2025-08-17,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Dam
+W0230,Matabeleland South,Mazowe River,6.51,113.8,8.74,22.62,241.94,2025-08-18,neutral,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,River
+W0231,Mashonaland East,Save River,8.82,142.94,7.32,0.54,909.87,2025-08-19,basic,unsafe,normal(healthy),Low (safe),normal(acceptable),UNSAFE,River
+W0232,Harare,Umzingwane Dam,7.45,136.26,9.21,3.79,918.72,2025-08-20,neutral,unsafe,very Good,normal(acceptable),normal(acceptable),UNSAFE,Dam
+W0233,Bulawayo,Gweru Borehole,8.46,108.92,3.41,19.79,562.52,2025-08-21,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0234,Harare,Mazowe River,9.12,112.63,4.12,4.85,714.78,2025-08-22,basic,unsafe,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,River
+W0235,Mashonaland West,Mutare Borehole,8.61,22.74,10.19,7.66,105.07,2025-08-23,basic,normal,very Good,normal(acceptable),Low (fresh),UNSAFE,Borehole
+W0236,Mashonaland West,Bulawayo Borehole,8.71,16.32,5.23,28.4,1131.5,2025-08-24,basic,normal,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0237,Masvingo,Mazowe River,7.01,86.06,2.23,16.81,846.52,2025-08-25,neutral,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,River
+W0238,Matabeleland South,Umzingwane Dam,7.54,3.74,3.54,22.52,133.72,2025-08-26,basic,Low Clear,Low (poor),unsafe,Low (fresh),UNSAFE,Dam
+W0239,Matabeleland South,Harare Borehole,6.44,72.87,4.24,16.74,1037.1,2025-08-27,acidic,unsafe,Low (poor),unsafe,unsafe,UNSAFE,Borehole
+W0240,Mashonaland Central,Bulawayo Borehole,6.23,32.34,11.57,16.58,726.83,2025-08-28,acidic,normal,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0241,Mashonaland Central,Manyame River,7.37,52.56,7.73,2.82,99.97,2025-08-29,neutral,unsafe,normal(healthy),Low (safe),Low (fresh),UNSAFE,River
+W0242,Mashonaland Central,Tugwi-Mukosi Dam,7.7,116.59,11.33,10.31,1455.93,2025-08-30,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,Dam
+W0243,Mashonaland East,Manyame River,6.76,141.24,7.75,8.47,1426.21,2025-08-31,neutral,unsafe,normal(healthy),normal(acceptable),unsafe,UNSAFE,River
+W0244,Matabeleland North,Mazowe River,7.61,11.79,6.79,11.72,793.71,2025-09-01,basic,normal,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0245,Manicaland,Manyame River,8.78,80.6,5.14,23.95,185.83,2025-09-02,basic,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,River
+W0246,Matabeleland North,Umzingwane Dam,7.56,132.5,8.06,11.16,1144.2,2025-09-03,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Dam
+W0247,Harare,Mutare Borehole,8.17,13.29,3.39,13.55,763.3,2025-09-04,basic,normal,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0248,Matabeleland North,Gweru Borehole,8.48,123.85,10.98,11.92,488.55,2025-09-05,basic,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0249,Mashonaland East,Tugwi-Mukosi Dam,9.16,54.31,10.29,2.8,762.56,2025-09-06,basic,unsafe,very Good,Low (safe),normal(acceptable),UNSAFE,Dam
+W0250,Harare,Manyame River,7.73,48.99,5.18,13.23,807.54,2025-09-07,basic,normal,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0251,Matabeleland North,Manyame River,8.49,146.64,11.53,5.87,865.93,2025-09-08,basic,unsafe,very Good,normal(acceptable),normal(acceptable),UNSAFE,River
+W0252,Mashonaland East,Mazowe River,9.06,30.93,10.25,5.6,689.77,2025-09-09,basic,normal,very Good,normal(acceptable),normal(acceptable),UNSAFE,River
+W0253,Manicaland,Gweru Borehole,8.99,104.29,8.66,2.82,928.35,2025-09-10,basic,unsafe,normal(healthy),Low (safe),normal(acceptable),UNSAFE,Borehole
+W0254,Matabeleland North,Save River,6.02,123.39,3.22,10.7,1382.17,2025-09-11,acidic,unsafe,Low (poor),unsafe,unsafe,UNSAFE,River
+W0255,Mashonaland East,Manyame River,7.0,7.14,6.78,22.72,575.29,2025-09-12,neutral,normal,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0256,Mashonaland Central,Umzingwane Dam,6.7,100.89,7.06,8.29,1102.29,2025-09-13,neutral,unsafe,normal(healthy),normal(acceptable),unsafe,UNSAFE,Dam
+W0257,Matabeleland South,Harare Borehole,5.82,142.78,4.33,9.37,1346.96,2025-09-14,acidic,unsafe,Low (poor),normal(acceptable),unsafe,UNSAFE,Borehole
+W0258,Mashonaland Central,Tugwi-Mukosi Dam,7.84,19.51,2.8,19.28,711.17,2025-09-15,basic,normal,Low (poor),unsafe,normal(acceptable),UNSAFE,Dam
+W0259,Matabeleland South,Manyame River,8.22,134.54,9.77,5.88,693.01,2025-09-16,basic,unsafe,very Good,normal(acceptable),normal(acceptable),UNSAFE,River
+W0260,Bulawayo,Umzingwane Dam,8.64,89.62,3.22,26.91,923.07,2025-09-17,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Dam
+W0261,Bulawayo,Umzingwane Dam,5.95,92.87,7.94,15.61,907.54,2025-09-18,acidic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Dam
+W0262,Bulawayo,Tugwi-Mukosi Dam,8.74,92.33,11.36,13.43,1219.55,2025-09-19,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,Dam
+W0263,Manicaland,Save River,7.88,45.53,10.76,16.73,740.9,2025-09-20,basic,normal,very Good,unsafe,normal(acceptable),UNSAFE,River
+W0264,Mashonaland Central,Umzingwane Dam,8.1,140.35,4.78,4.98,1494.38,2025-09-21,basic,unsafe,Low (poor),normal(acceptable),unsafe,UNSAFE,Dam
+W0265,Matabeleland South,Harare Borehole,8.87,142.16,10.51,18.4,136.23,2025-09-22,basic,unsafe,very Good,unsafe,Low (fresh),UNSAFE,Borehole
+W0266,Mashonaland East,Umzingwane Dam,7.81,94.17,2.0,10.89,54.59,2025-09-23,basic,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Dam
+W0267,Harare,Umzingwane Dam,6.74,117.73,2.18,26.92,978.29,2025-09-24,neutral,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Dam
+W0268,Mashonaland East,Umzingwane Dam,8.55,92.23,8.03,5.07,482.73,2025-09-25,basic,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,Dam
+W0269,Harare,Mutare Borehole,6.84,73.18,5.65,15.21,398.55,2025-09-26,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0270,Mashonaland West,Mutare Borehole,5.63,99.46,5.86,17.94,502.25,2025-09-27,acidic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0271,Mashonaland East,Save River,8.57,83.4,7.64,1.0,421.27,2025-09-28,basic,unsafe,normal(healthy),Low (safe),normal(acceptable),UNSAFE,River
+W0272,Matabeleland North,Manyame River,6.78,90.02,3.92,10.91,94.65,2025-09-29,neutral,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,River
+W0273,Matabeleland North,Umzingwane Dam,8.36,117.79,4.12,21.98,1458.72,2025-09-30,basic,unsafe,Low (poor),unsafe,unsafe,UNSAFE,Dam
+W0274,Masvingo,Gweru Borehole,6.84,72.65,6.85,24.61,370.08,2025-10-01,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0275,Mashonaland Central,Manyame River,8.69,7.07,9.54,9.39,1114.34,2025-10-02,basic,normal,very Good,normal(acceptable),unsafe,UNSAFE,River
+W0276,Harare,Save River,6.31,25.44,8.19,23.96,1155.76,2025-10-03,acidic,normal,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0277,Harare,Gwayi River,9.11,66.35,4.97,29.03,1397.42,2025-10-04,basic,unsafe,Low (poor),unsafe,unsafe,UNSAFE,River
+W0278,Mashonaland Central,Manyame River,8.39,109.0,6.3,25.71,94.3,2025-10-05,basic,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,River
+W0279,Manicaland,Manyame River,5.92,89.4,3.71,3.53,1314.47,2025-10-06,acidic,unsafe,Low (poor),normal(acceptable),unsafe,UNSAFE,River
+W0280,Masvingo,Bulawayo Borehole,7.59,97.89,2.75,22.19,814.48,2025-10-07,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0281,Manicaland,Mazowe River,9.15,72.41,9.83,9.59,967.19,2025-10-08,basic,unsafe,very Good,normal(acceptable),normal(acceptable),UNSAFE,River
+W0282,Manicaland,Bulawayo Borehole,7.24,92.75,4.65,29.65,984.48,2025-10-09,neutral,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0283,Manicaland,Harare Borehole,6.17,50.02,3.78,14.56,1238.71,2025-10-10,acidic,unsafe,Low (poor),unsafe,unsafe,UNSAFE,Borehole
+W0284,Mashonaland Central,Mutare Borehole,7.29,71.06,8.92,3.67,533.44,2025-10-11,neutral,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,Borehole
+W0285,Manicaland,Mutare Borehole,7.4,111.9,8.18,21.76,1112.92,2025-10-12,neutral,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0286,Matabeleland North,Mazowe River,8.24,130.9,8.33,9.69,816.44,2025-10-13,basic,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,River
+W0287,Bulawayo,Tugwi-Mukosi Dam,8.09,65.61,4.29,29.91,1200.42,2025-10-14,basic,unsafe,Low (poor),unsafe,unsafe,UNSAFE,Dam
+W0288,Mashonaland West,Tugwi-Mukosi Dam,6.99,7.51,4.33,29.39,1486.29,2025-10-15,neutral,normal,Low (poor),unsafe,unsafe,UNSAFE,Dam
+W0289,Harare,Save River,6.31,25.09,4.21,19.68,340.94,2025-10-16,acidic,normal,Low (poor),unsafe,normal(acceptable),UNSAFE,River
+W0290,Harare,Mazowe River,7.89,4.11,3.74,3.89,1492.24,2025-10-17,basic,Low Clear,Low (poor),normal(acceptable),unsafe,UNSAFE,River
+W0291,Mashonaland West,Manyame River,7.06,98.34,8.56,20.61,180.23,2025-10-18,neutral,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,River
+W0292,Mashonaland Central,Tugwi-Mukosi Dam,5.99,50.51,10.48,2.79,53.36,2025-10-19,acidic,unsafe,very Good,Low (safe),Low (fresh),UNSAFE,Dam
+W0293,Mashonaland East,Umzingwane Dam,8.83,81.83,9.24,0.88,114.03,2025-10-20,basic,unsafe,very Good,Low (safe),Low (fresh),UNSAFE,Dam
+W0294,Mashonaland Central,Gweru Borehole,8.06,74.5,9.92,24.69,545.58,2025-10-21,basic,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0295,Harare,Manyame River,8.03,13.15,6.05,6.29,967.71,2025-10-22,basic,normal,normal(healthy),normal(acceptable),normal(acceptable),SAFE,River
+W0296,Harare,Harare Borehole,8.54,61.09,8.54,11.37,150.09,2025-10-23,basic,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,Borehole
+W0297,Mashonaland West,Umzingwane Dam,7.46,33.86,5.54,29.2,58.22,2025-10-24,neutral,normal,normal(healthy),unsafe,Low (fresh),UNSAFE,Dam
+W0298,Manicaland,Umzingwane Dam,8.52,63.34,7.26,10.11,1408.78,2025-10-25,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Dam
+W0299,Mashonaland Central,Mazowe River,7.34,31.33,6.82,8.89,1241.79,2025-10-26,neutral,normal,normal(healthy),normal(acceptable),unsafe,UNSAFE,River
+W0300,Matabeleland South,Save River,5.75,126.23,3.77,27.55,1223.32,2025-10-27,acidic,unsafe,Low (poor),unsafe,unsafe,UNSAFE,River
+W0301,Mashonaland West,Harare Borehole,7.0,26.95,5.87,3.32,1332.42,2025-10-28,neutral,normal,normal(healthy),normal(acceptable),unsafe,UNSAFE,Borehole
+W0302,Matabeleland North,Tugwi-Mukosi Dam,7.34,144.16,11.64,22.79,1065.05,2025-10-29,neutral,unsafe,very Good,unsafe,unsafe,UNSAFE,Dam
+W0303,Harare,Mazowe River,8.16,62.97,4.49,29.64,201.39,2025-10-30,basic,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,River
+W0304,Mashonaland West,Tugwi-Mukosi Dam,5.89,127.09,3.34,27.04,628.7,2025-10-31,acidic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Dam
+W0305,Mashonaland Central,Mazowe River,6.02,94.69,6.19,19.55,1098.57,2025-11-01,acidic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0306,Harare,Mazowe River,6.48,110.57,9.9,9.42,456.48,2025-11-02,acidic,unsafe,very Good,normal(acceptable),normal(acceptable),UNSAFE,River
+W0307,Mashonaland East,Mazowe River,6.49,115.39,7.82,7.63,1046.74,2025-11-03,acidic,unsafe,normal(healthy),normal(acceptable),unsafe,UNSAFE,River
+W0308,Mashonaland West,Save River,8.21,76.22,8.81,24.58,85.52,2025-11-04,basic,unsafe,normal(healthy),unsafe,Low (fresh),UNSAFE,River
+W0309,Masvingo,Mazowe River,6.43,81.95,3.9,26.39,493.9,2025-11-05,acidic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,River
+W0310,Harare,Gwayi River,7.84,77.59,8.19,15.76,846.24,2025-11-06,basic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0311,Mashonaland Central,Gweru Borehole,7.33,88.62,5.24,7.33,966.53,2025-11-07,neutral,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,Borehole
+W0312,Bulawayo,Tugwi-Mukosi Dam,7.62,5.38,10.34,3.39,886.71,2025-11-08,basic,normal,very Good,normal(acceptable),normal(acceptable),SAFE,Dam
+W0313,Matabeleland South,Manyame River,8.6,59.93,8.29,2.62,1061.75,2025-11-09,basic,unsafe,normal(healthy),Low (safe),unsafe,UNSAFE,River
+W0314,Midlands,Bulawayo Borehole,7.0,91.32,3.99,21.57,58.83,2025-11-10,neutral,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Borehole
+W0315,Manicaland,Harare Borehole,8.35,90.06,2.65,12.6,196.36,2025-11-11,basic,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Borehole
+W0316,Midlands,Mutare Borehole,7.06,119.15,2.43,27.16,1309.97,2025-11-12,neutral,unsafe,Low (poor),unsafe,unsafe,UNSAFE,Borehole
+W0317,Mashonaland Central,Save River,6.81,98.6,5.71,22.19,1038.54,2025-11-13,neutral,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0318,Matabeleland North,Manyame River,9.05,148.83,4.66,5.74,213.75,2025-11-14,basic,unsafe,Low (poor),normal(acceptable),Low (fresh),UNSAFE,River
+W0319,Matabeleland North,Umzingwane Dam,6.18,43.29,8.46,18.41,1271.01,2025-11-15,acidic,normal,normal(healthy),unsafe,unsafe,UNSAFE,Dam
+W0320,Bulawayo,Gwayi River,5.83,54.51,6.99,13.07,401.24,2025-11-16,acidic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0321,Manicaland,Mutare Borehole,8.35,58.19,4.66,17.32,743.48,2025-11-17,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0322,Masvingo,Bulawayo Borehole,5.75,70.41,3.49,22.14,260.53,2025-11-18,acidic,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Borehole
+W0323,Bulawayo,Manyame River,8.6,125.56,3.27,24.19,1079.66,2025-11-19,basic,unsafe,Low (poor),unsafe,unsafe,UNSAFE,River
+W0324,Midlands,Mutare Borehole,7.12,36.13,10.65,25.31,1016.94,2025-11-20,neutral,normal,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0325,Bulawayo,Manyame River,8.89,116.62,4.43,7.62,356.11,2025-11-21,basic,unsafe,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,River
+W0326,Midlands,Gwayi River,8.17,61.39,8.52,0.93,1301.93,2025-11-22,basic,unsafe,normal(healthy),Low (safe),unsafe,UNSAFE,River
+W0327,Harare,Bulawayo Borehole,7.76,90.68,10.11,22.18,631.89,2025-11-23,basic,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0328,Matabeleland North,Umzingwane Dam,9.01,95.25,8.14,3.19,474.15,2025-11-24,basic,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,Dam
+W0329,Harare,Mazowe River,6.97,56.55,10.6,9.45,270.88,2025-11-25,neutral,unsafe,very Good,normal(acceptable),Low (fresh),UNSAFE,River
+W0330,Matabeleland South,Tugwi-Mukosi Dam,9.03,77.38,5.92,0.11,435.94,2025-11-26,basic,unsafe,normal(healthy),Low (safe),normal(acceptable),UNSAFE,Dam
+W0331,Manicaland,Umzingwane Dam,6.0,62.54,11.56,20.45,81.94,2025-11-27,acidic,unsafe,very Good,unsafe,Low (fresh),UNSAFE,Dam
+W0332,Masvingo,Mazowe River,7.29,11.3,3.33,5.01,895.72,2025-11-28,neutral,normal,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,River
+W0333,Midlands,Save River,6.5,66.14,3.02,19.66,1271.23,2025-11-29,neutral,unsafe,Low (poor),unsafe,unsafe,UNSAFE,River
+W0334,Masvingo,Gweru Borehole,7.5,15.51,8.59,29.75,846.02,2025-11-30,neutral,normal,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0335,Midlands,Harare Borehole,6.1,61.35,11.43,2.18,367.95,2025-12-01,acidic,unsafe,very Good,Low (safe),normal(acceptable),UNSAFE,Borehole
+W0336,Mashonaland Central,Harare Borehole,8.61,89.34,10.09,2.31,98.82,2025-12-02,basic,unsafe,very Good,Low (safe),Low (fresh),UNSAFE,Borehole
+W0337,Bulawayo,Tugwi-Mukosi Dam,8.63,87.33,2.76,10.21,361.21,2025-12-03,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Dam
+W0338,Matabeleland South,Bulawayo Borehole,9.03,99.73,4.79,25.99,653.38,2025-12-04,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0339,Matabeleland North,Gwayi River,6.07,15.19,11.3,6.47,1151.44,2025-12-05,acidic,normal,very Good,normal(acceptable),unsafe,UNSAFE,River
+W0340,Midlands,Bulawayo Borehole,7.81,98.17,4.53,10.81,322.37,2025-12-06,basic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0341,Masvingo,Gwayi River,7.25,47.51,9.81,2.06,1093.7,2025-12-07,neutral,normal,very Good,Low (safe),unsafe,UNSAFE,River
+W0342,Matabeleland South,Bulawayo Borehole,6.77,60.46,10.25,22.89,1307.05,2025-12-08,neutral,unsafe,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0343,Mashonaland East,Gweru Borehole,6.8,128.84,6.95,12.25,708.22,2025-12-09,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0344,Mashonaland East,Save River,7.03,2.35,5.86,22.78,1241.08,2025-12-10,neutral,Low Clear,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0345,Harare,Save River,8.11,88.67,6.5,27.11,854.25,2025-12-11,basic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0346,Matabeleland North,Mazowe River,7.71,90.21,4.27,6.98,973.78,2025-12-12,basic,unsafe,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,River
+W0347,Mashonaland Central,Mutare Borehole,7.2,60.1,10.89,24.22,813.1,2025-12-13,neutral,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Borehole
+W0348,Masvingo,Save River,5.78,36.32,6.51,1.77,721.6,2025-12-14,acidic,normal,normal(healthy),Low (safe),normal(acceptable),UNSAFE,River
+W0349,Bulawayo,Save River,5.79,35.97,10.82,26.97,390.25,2025-12-15,acidic,normal,very Good,unsafe,normal(acceptable),UNSAFE,River
+W0350,Bulawayo,Umzingwane Dam,5.51,132.67,3.06,19.52,489.63,2025-12-16,acidic,unsafe,Low (poor),unsafe,normal(acceptable),UNSAFE,Dam
+W0351,Masvingo,Umzingwane Dam,9.08,66.86,11.88,26.23,470.46,2025-12-17,basic,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,Dam
+W0352,Manicaland,Mazowe River,5.52,50.3,6.43,0.01,866.77,2025-12-18,acidic,unsafe,normal(healthy),Low (safe),normal(acceptable),UNSAFE,River
+W0353,Mashonaland Central,Mutare Borehole,5.88,67.87,2.48,5.07,223.93,2025-12-19,acidic,unsafe,Low (poor),normal(acceptable),Low (fresh),UNSAFE,Borehole
+W0354,Matabeleland South,Tugwi-Mukosi Dam,6.66,100.74,2.38,11.69,1379.35,2025-12-20,neutral,unsafe,Low (poor),unsafe,unsafe,UNSAFE,Dam
+W0355,Midlands,Umzingwane Dam,8.49,22.72,9.46,11.39,1094.95,2025-12-21,basic,normal,very Good,unsafe,unsafe,UNSAFE,Dam
+W0356,Manicaland,Tugwi-Mukosi Dam,9.06,67.97,8.59,6.8,632.1,2025-12-22,basic,unsafe,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,Dam
+W0357,Midlands,Manyame River,8.42,88.59,10.02,11.45,280.01,2025-12-23,basic,unsafe,very Good,unsafe,Low (fresh),UNSAFE,River
+W0358,Midlands,Umzingwane Dam,8.06,142.34,3.05,3.87,1328.89,2025-12-24,basic,unsafe,Low (poor),normal(acceptable),unsafe,UNSAFE,Dam
+W0359,Manicaland,Gweru Borehole,7.43,38.63,2.36,12.38,1244.48,2025-12-25,neutral,normal,Low (poor),unsafe,unsafe,UNSAFE,Borehole
+W0360,Harare,Mutare Borehole,5.82,54.53,7.09,24.07,1096.5,2025-12-26,acidic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0361,Mashonaland East,Mazowe River,9.05,57.52,5.88,14.37,443.74,2025-12-27,basic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0362,Midlands,Manyame River,8.31,91.23,6.62,0.54,633.55,2025-12-28,basic,unsafe,normal(healthy),Low (safe),normal(acceptable),UNSAFE,River
+W0363,Manicaland,Mutare Borehole,7.86,54.15,11.92,12.64,198.98,2025-12-29,basic,unsafe,very Good,unsafe,Low (fresh),UNSAFE,Borehole
+W0364,Manicaland,Gweru Borehole,8.31,80.49,11.71,0.82,324.11,2025-12-30,basic,unsafe,very Good,Low (safe),normal(acceptable),UNSAFE,Borehole
+W0365,Mashonaland West,Mutare Borehole,8.18,117.49,11.42,28.99,1185.37,2025-12-31,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0366,Harare,Gweru Borehole,7.86,106.1,9.84,3.82,1086.81,2026-01-01,basic,unsafe,very Good,normal(acceptable),unsafe,UNSAFE,Borehole
+W0367,Matabeleland North,Gweru Borehole,9.13,67.51,5.55,21.23,910.55,2026-01-02,basic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0368,Mashonaland West,Tugwi-Mukosi Dam,8.84,129.77,6.12,29.18,1348.8,2026-01-03,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Dam
+W0369,Mashonaland West,Bulawayo Borehole,7.89,84.16,7.5,24.78,895.74,2026-01-04,basic,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,Borehole
+W0370,Masvingo,Manyame River,8.06,81.45,10.31,20.98,727.1,2026-01-05,basic,unsafe,very Good,unsafe,normal(acceptable),UNSAFE,River
+W0371,Mashonaland East,Mutare Borehole,5.69,6.09,2.69,25.18,543.54,2026-01-06,acidic,normal,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0372,Manicaland,Gwayi River,7.98,148.02,6.24,29.45,1413.65,2026-01-07,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,River
+W0373,Mashonaland East,Manyame River,5.66,19.32,2.83,18.64,169.94,2026-01-08,acidic,normal,Low (poor),unsafe,Low (fresh),UNSAFE,River
+W0374,Mashonaland Central,Bulawayo Borehole,7.68,35.44,7.15,16.78,1399.79,2026-01-09,basic,normal,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0375,Masvingo,Manyame River,9.2,8.7,10.99,18.85,1248.74,2026-01-10,basic,normal,very Good,unsafe,unsafe,UNSAFE,River
+W0376,Matabeleland North,Save River,7.56,96.36,9.82,15.98,238.4,2026-01-11,basic,unsafe,very Good,unsafe,Low (fresh),UNSAFE,River
+W0377,Mashonaland East,Gwayi River,7.25,34.48,4.28,19.05,869.23,2026-01-12,neutral,normal,Low (poor),unsafe,normal(acceptable),UNSAFE,River
+W0378,Bulawayo,Bulawayo Borehole,6.66,27.82,11.76,13.5,1306.49,2026-01-13,neutral,normal,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0379,Midlands,Tugwi-Mukosi Dam,5.95,14.19,8.67,6.55,879.12,2026-01-14,acidic,normal,normal(healthy),normal(acceptable),normal(acceptable),UNSAFE,Dam
+W0380,Mashonaland Central,Mutare Borehole,8.2,16.39,2.1,3.61,1365.44,2026-01-15,basic,normal,Low (poor),normal(acceptable),unsafe,UNSAFE,Borehole
+W0381,Harare,Harare Borehole,6.21,88.12,4.55,2.05,1417.33,2026-01-16,acidic,unsafe,Low (poor),Low (safe),unsafe,UNSAFE,Borehole
+W0382,Matabeleland North,Bulawayo Borehole,5.93,103.54,4.61,7.9,662.46,2026-01-17,acidic,unsafe,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,Borehole
+W0383,Mashonaland Central,Mazowe River,7.06,60.21,2.69,1.38,597.1,2026-01-18,neutral,unsafe,Low (poor),Low (safe),normal(acceptable),UNSAFE,River
+W0384,Midlands,Mutare Borehole,8.44,72.5,11.6,17.02,1407.67,2026-01-19,basic,unsafe,very Good,unsafe,unsafe,UNSAFE,Borehole
+W0385,Masvingo,Bulawayo Borehole,8.26,103.21,6.78,8.51,1028.95,2026-01-20,basic,unsafe,normal(healthy),normal(acceptable),unsafe,UNSAFE,Borehole
+W0386,Midlands,Save River,5.7,3.59,10.96,24.74,218.23,2026-01-21,acidic,Low Clear,very Good,unsafe,Low (fresh),UNSAFE,River
+W0387,Mashonaland West,Harare Borehole,7.18,49.15,5.22,2.23,111.32,2026-01-22,neutral,normal,normal(healthy),Low (safe),Low (fresh),SAFE,Borehole
+W0388,Midlands,Save River,7.43,145.99,3.25,6.79,868.71,2026-01-23,neutral,unsafe,Low (poor),normal(acceptable),normal(acceptable),UNSAFE,River
+W0389,Mashonaland West,Harare Borehole,7.88,87.44,6.74,21.91,1398.75,2026-01-24,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0390,Masvingo,Mazowe River,7.91,38.88,3.14,17.96,1274.16,2026-01-25,basic,normal,Low (poor),unsafe,unsafe,UNSAFE,River
+W0391,Matabeleland South,Mutare Borehole,6.85,78.74,6.86,1.93,1029.98,2026-01-26,neutral,unsafe,normal(healthy),Low (safe),unsafe,UNSAFE,Borehole
+W0392,Mashonaland West,Tugwi-Mukosi Dam,7.57,52.06,11.2,26.32,251.72,2026-01-27,basic,unsafe,very Good,unsafe,Low (fresh),UNSAFE,Dam
+W0393,Harare,Save River,7.28,80.3,7.21,26.32,418.64,2026-01-28,neutral,unsafe,normal(healthy),unsafe,normal(acceptable),UNSAFE,River
+W0394,Midlands,Save River,8.77,19.74,8.16,9.91,1319.49,2026-01-29,basic,normal,normal(healthy),normal(acceptable),unsafe,UNSAFE,River
+W0395,Midlands,Gweru Borehole,7.46,20.77,3.57,10.21,315.07,2026-01-30,neutral,normal,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0396,Harare,Harare Borehole,7.13,22.39,2.44,29.67,453.74,2026-01-31,neutral,normal,Low (poor),unsafe,normal(acceptable),UNSAFE,Borehole
+W0397,Bulawayo,Umzingwane Dam,7.0,141.03,3.11,18.79,237.92,2026-02-01,neutral,unsafe,Low (poor),unsafe,Low (fresh),UNSAFE,Dam
+W0398,Manicaland,Mutare Borehole,7.62,110.2,7.99,15.94,1030.36,2026-02-02,basic,unsafe,normal(healthy),unsafe,unsafe,UNSAFE,Borehole
+W0399,Matabeleland South,Harare Borehole,8.47,25.19,2.95,25.14,1418.77,2026-02-03,basic,normal,Low (poor),unsafe,unsafe,UNSAFE,Borehole
+W0400,Matabeleland North,Gweru Borehole,7.49,29.06,5.76,8.56,440.0,2026-02-04,neutral,normal,normal(healthy),normal(acceptable),normal(acceptable),SAFE,Borehole

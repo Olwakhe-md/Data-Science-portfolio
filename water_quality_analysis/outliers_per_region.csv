@@ -1,0 +1,85 @@
+,region,water_source,outlier_count
+0,Bulawayo,Gwayi River,1
+1,Bulawayo,Gweru Borehole,1
+2,Bulawayo,Harare Borehole,1
+3,Bulawayo,Manyame River,1
+4,Bulawayo,Mazowe River,2
+5,Bulawayo,Mutare Borehole,1
+6,Bulawayo,Save River,1
+7,Bulawayo,Tugwi-Mukosi Dam,1
+8,Bulawayo,Umzingwane Dam,3
+9,Harare,Bulawayo Borehole,1
+10,Harare,Gwayi River,1
+11,Harare,Gweru Borehole,1
+12,Harare,Harare Borehole,3
+13,Harare,Manyame River,2
+14,Harare,Mazowe River,4
+15,Harare,Mutare Borehole,1
+16,Harare,Save River,4
+17,Harare,Tugwi-Mukosi Dam,2
+18,Harare,Umzingwane Dam,3
+19,Manicaland,Bulawayo Borehole,1
+20,Manicaland,Gwayi River,2
+21,Manicaland,Harare Borehole,1
+22,Manicaland,Manyame River,2
+23,Manicaland,Mazowe River,3
+24,Manicaland,Save River,1
+25,Manicaland,Tugwi-Mukosi Dam,1
+26,Manicaland,Umzingwane Dam,1
+27,Mashonaland Central,Bulawayo Borehole,2
+28,Mashonaland Central,Gwayi River,2
+29,Mashonaland Central,Gweru Borehole,1
+30,Mashonaland Central,Manyame River,2
+31,Mashonaland Central,Mazowe River,1
+32,Mashonaland Central,Mutare Borehole,1
+33,Mashonaland Central,Save River,1
+34,Mashonaland Central,Tugwi-Mukosi Dam,1
+35,Mashonaland Central,Umzingwane Dam,4
+36,Mashonaland East,Bulawayo Borehole,1
+37,Mashonaland East,Gweru Borehole,2
+38,Mashonaland East,Harare Borehole,2
+39,Mashonaland East,Manyame River,4
+40,Mashonaland East,Mazowe River,3
+41,Mashonaland East,Mutare Borehole,2
+42,Mashonaland East,Save River,1
+43,Mashonaland East,Tugwi-Mukosi Dam,2
+44,Mashonaland West,Bulawayo Borehole,1
+45,Mashonaland West,Gwayi River,1
+46,Mashonaland West,Manyame River,1
+47,Mashonaland West,Mazowe River,1
+48,Mashonaland West,Mutare Borehole,6
+49,Mashonaland West,Tugwi-Mukosi Dam,5
+50,Mashonaland West,Umzingwane Dam,2
+51,Masvingo,Bulawayo Borehole,1
+52,Masvingo,Gwayi River,2
+53,Masvingo,Gweru Borehole,2
+54,Masvingo,Harare Borehole,2
+55,Masvingo,Manyame River,3
+56,Masvingo,Mazowe River,1
+57,Masvingo,Mutare Borehole,3
+58,Masvingo,Save River,4
+59,Masvingo,Tugwi-Mukosi Dam,1
+60,Masvingo,Umzingwane Dam,6
+61,Matabeleland North,Bulawayo Borehole,1
+62,Matabeleland North,Gweru Borehole,5
+63,Matabeleland North,Manyame River,3
+64,Matabeleland North,Mazowe River,3
+65,Matabeleland North,Save River,5
+66,Matabeleland North,Tugwi-Mukosi Dam,2
+67,Matabeleland North,Umzingwane Dam,3
+68,Matabeleland South,Bulawayo Borehole,1
+69,Matabeleland South,Gweru Borehole,1
+70,Matabeleland South,Harare Borehole,4
+71,Matabeleland South,Manyame River,2
+72,Matabeleland South,Mutare Borehole,2
+73,Matabeleland South,Save River,2
+74,Matabeleland South,Tugwi-Mukosi Dam,3
+75,Midlands,Bulawayo Borehole,1
+76,Midlands,Gwayi River,1
+77,Midlands,Gweru Borehole,1
+78,Midlands,Harare Borehole,1
+79,Midlands,Manyame River,1
+80,Midlands,Mazowe River,1
+81,Midlands,Mutare Borehole,3
+82,Midlands,Save River,2
+83,Midlands,Umzingwane Dam,3
