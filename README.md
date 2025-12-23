@@ -1,6 +1,6 @@
 🌱 Data Science Portfolio — Mdumiseni Ndlovu
 
-Welcome to my Data Science Portfolio.
+Welcome to my Data Science Portfolio. 
 This repository documents my not so structured journey(as I self teach myself, too many pitfalls) into Data Science with a focus on biology, biochemistry, and real-world applied analysis.
 Each week contains a guided project designed to build strong foundational skills through practical, portfolio-ready work.
 
