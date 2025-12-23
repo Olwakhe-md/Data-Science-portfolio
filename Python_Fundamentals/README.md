@@ -1,4 +1,4 @@
-📄 Mini Report — Week 1 Findings
+Mini Report — Week 1 Findings
 1. Dataset Overview
 
 Total number of samples: 100
