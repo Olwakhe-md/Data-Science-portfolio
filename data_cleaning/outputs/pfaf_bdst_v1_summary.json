@@ -1,0 +1,51 @@
+{
+  "records_total": 14283,
+  "records_errors": 0,
+  "records_ok": 14283,
+  "risk_distribution": {
+    "AMBER": 8692,
+    "RED": 5591
+  },
+  "hazard_tier_distribution": {
+    "H0": 8419,
+    "H2": 5041,
+    "H1": 823
+  },
+  "quadrant_distribution": {
+    "Q2_medicinal_only": 9192,
+    "Q4_low_use": 1521,
+    "Q3_food_oriented": 1475,
+    "Q1_dual_purpose": 2095
+  },
+  "bioactivity_risk_distribution": {
+    "None": 8505,
+    "Moderate": 1668,
+    "High": 4110
+  },
+  "top_rules_triggered": [
+    [
+      "base_risk_from_hazards:H0",
+      8419
+    ],
+    [
+      "HZ_UNCATEGORIZED_MIN_AMBER",
+      8419
+    ],
+    [
+      "base_risk_from_hazards:H2",
+      5041
+    ],
+    [
+      "ESC_01_high_risk_bioactivity",
+      4110
+    ],
+    [
+      "ESC_02_medicinal_only_high_medicinal",
+      1082
+    ],
+    [
+      "base_risk_from_hazards:H1",
+      823
+    ]
+  ]
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "identity": {
+      "scientific_name": "Exemplaris benignus",
+      "family": "Exampleaceae"
+    },
+    "use_profile": {
+      "edibility_rating": 5,
+      "edibility_band": "E2",
+      "medicinal_rating": 0,
+      "medicinal_band": "M0",
+      "quadrant": "Q3_food_oriented",
+      "quadrant_label": "High edible & Low medicinal (Food-oriented)"
+    },
+    "risk_badge": {
+      "bdst_risk_level": "GREEN",
+      "risk_label": "Low apparent risk (provisional)"
+    },
+    "rationale": {
+      "rules_triggered": [
+        "base_risk_from_hazards:H0"
+      ]
+    },
+    "hazards": {
+      "hazard_text_present": false,
+      "hazard_tier": "H0",
+      "hazard_keyword_matches": {
+        "H2": [],
+        "H1": []
+      },
+      "uncategorized_hazard_notes": false,
+      "hazard_notes_excerpt": ""
+    },
+    "bioactivity_flags": {
+      "bioactivity_risk_level": "None",
+      "bioactivity_triggers": []
+    },
+    "uncertainty_and_disclaimer": [
+      "Non-clinical decision support; not medical advice.",
+      "Absence of hazard warnings is not proof of safety.",
+      "Information is dataset-derived and may be incomplete."
+    ]
+  },
+  {
+    "identity": {
+      "scientific_name": "Exemplaris notedus",
+      "family": "Exampleaceae"
+    },
+    "use_profile": {
+      "edibility_rating": 5,
+      "edibility_band": "E2",
+      "medicinal_rating": 0,
+      "medicinal_band": "M0",
+      "quadrant": "Q3_food_oriented",
+      "quadrant_label": "High edible & Low medicinal (Food-oriented)"
+    },
+    "risk_badge": {
+      "bdst_risk_level": "AMBER",
+      "risk_label": "Caution advised"
+    },
+    "rationale": {
+      "rules_triggered": [
+        "base_risk_from_hazards:H0",
+        "ESC_03_uncategorized_hazard_notes"
+      ]
+    },
+    "hazards": {
+      "hazard_text_present": true,
+      "hazard_tier": "H0",
+      "hazard_keyword_matches": {
+        "H2": [],
+        "H1": []
+      },
+      "uncategorized_hazard_notes": true,
+      "hazard_notes_excerpt": "Use with care in certain situations."
+    },
+    "bioactivity_flags": {
+      "bioactivity_risk_level": "None",
+      "bioactivity_triggers": []
+    },
+    "uncertainty_and_disclaimer": [
+      "Non-clinical decision support; not medical advice.",
+      "Absence of hazard warnings is not proof of safety.",
+      "Information is dataset-derived and may be incomplete."
+    ]
+  },
+  {
+    "identity": {
+      "scientific_name": "Exemplaris mydriaticus",
+      "family": "Exampleaceae"
+    },
+    "use_profile": {
+      "edibility_rating": 4,
+      "edibility_band": "E2",
+      "medicinal_rating": 2,
+      "medicinal_band": "M1",
+      "quadrant": "Q1_dual_purpose",
+      "quadrant_label": "High edible & High medicinal (Dual-purpose)"
+    },
+    "risk_badge": {
+      "bdst_risk_level": "AMBER",
+      "risk_label": "Caution advised"
+    },
+    "rationale": {
+      "rules_triggered": [
+        "base_risk_from_hazards:H0",
+        "ESC_01_high_risk_bioactivity"
+      ]
+    },
+    "hazards": {
+      "hazard_text_present": false,
+      "hazard_tier": "H0",
+      "hazard_keyword_matches": {
+        "H2": [],
+        "H1": []
+      },
+      "uncategorized_hazard_notes": false,
+      "hazard_notes_excerpt": ""
+    },
+    "bioactivity_flags": {
+      "bioactivity_risk_level": "High",
+      "bioactivity_triggers": [
+        "mydriatic"
+      ]
+    },
+    "uncertainty_and_disclaimer": [
+      "Non-clinical decision support; not medical advice.",
+      "Absence of hazard warnings is not proof of safety.",
+      "Information is dataset-derived and may be incomplete."
+    ]
+  },
+  {
+    "identity": {
+      "scientific_name": "Exemplaris irritans",
+      "family": "Exampleaceae"
+    },
+    "use_profile": {
+      "edibility_rating": 4,
+      "edibility_band": "E2",
+      "medicinal_rating": 0,
+      "medicinal_band": "M0",
+      "quadrant": "Q3_food_oriented",
+      "quadrant_label": "High edible & Low medicinal (Food-oriented)"
+    },
+    "risk_badge": {
+      "bdst_risk_level": "AMBER",
+      "risk_label": "Caution advised"
+    },
+    "rationale": {
+      "rules_triggered": [
+        "base_risk_from_hazards:H1"
+      ]
+    },
+    "hazards": {
+      "hazard_text_present": true,
+      "hazard_tier": "H1",
+      "hazard_keyword_matches": {
+        "H2": [],
+        "H1": [
+          "irritant",
+          "nausea"
+        ]
+      },
+      "uncategorized_hazard_notes": false,
+      "hazard_notes_excerpt": "May cause irritation and nausea."
+    },
+    "bioactivity_flags": {
+      "bioactivity_risk_level": "None",
+      "bioactivity_triggers": []
+    },
+    "uncertainty_and_disclaimer": [
+      "Non-clinical decision support; not medical advice.",
+      "Absence of hazard warnings is not proof of safety.",
+      "Information is dataset-derived and may be incomplete."
+    ]
+  },
+  {
+    "identity": {
+      "scientific_name": "Exemplaris potentus",
+      "family": "Exampleaceae"
+    },
+    "use_profile": {
+      "edibility_rating": 1,
+      "edibility_band": "E0",
+      "medicinal_rating": 5,
+      "medicinal_band": "M2",
+      "quadrant": "Q2_medicinal_only",
+      "quadrant_label": "Low edible & High medicinal (Medicinal-only)"
+    },
+    "risk_badge": {
+      "bdst_risk_level": "AMBER",
+      "risk_label": "Caution advised"
+    },
+    "rationale": {
+      "rules_triggered": [
+        "base_risk_from_hazards:H0",
+        "ESC_02_medicinal_only_high_medicinal"
+      ]
+    },
+    "hazards": {
+      "hazard_text_present": false,
+      "hazard_tier": "H0",
+      "hazard_keyword_matches": {
+        "H2": [],
+        "H1": []
+      },
+      "uncategorized_hazard_notes": false,
+      "hazard_notes_excerpt": ""
+    },
+    "bioactivity_flags": {
+      "bioactivity_risk_level": "None",
+      "bioactivity_triggers": []
+    },
+    "uncertainty_and_disclaimer": [
+      "Non-clinical decision support; not medical advice.",
+      "Absence of hazard warnings is not proof of safety.",
+      "Information is dataset-derived and may be incomplete."
+    ]
+  },
+  {
+    "identity": {
+      "scientific_name": "Exemplaris toxicus",
+      "family": "Exampleaceae"
+    },
+    "use_profile": {
+      "edibility_rating": 5,
+      "edibility_band": "E2",
+      "medicinal_rating": 1,
+      "medicinal_band": "M0",
+      "quadrant": "Q3_food_oriented",
+      "quadrant_label": "High edible & Low medicinal (Food-oriented)"
+    },
+    "risk_badge": {
+      "bdst_risk_level": "RED",
+      "risk_label": "High risk / strong caution"
+    },
+    "rationale": {
+      "rules_triggered": [
+        "base_risk_from_hazards:H2"
+      ]
+    },
+    "hazards": {
+      "hazard_text_present": true,
+      "hazard_tier": "H2",
+      "hazard_keyword_matches": {
+        "H2": [
+          "toxic",
+          "fatal"
+        ],
+        "H1": []
+      },
+      "uncategorized_hazard_notes": false,
+      "hazard_notes_excerpt": "Highly toxic; can be fatal."
+    },
+    "bioactivity_flags": {
+      "bioactivity_risk_level": "None",
+      "bioactivity_triggers": []
+    },
+    "uncertainty_and_disclaimer": [
+      "Non-clinical decision support; not medical advice.",
+      "Absence of hazard warnings is not proof of safety.",
+      "Information is dataset-derived and may be incomplete."
+    ]
+  },
+  {
+    "identity": {
+      "scientific_name": "Exemplaris unknownus",
+      "family": "Exampleaceae"
+    },
+    "use_profile": {
+      "edibility_rating": null,
+      "edibility_band": "E_unknown",
+      "medicinal_rating": 3,
+      "medicinal_band": "M1",
+      "quadrant": "Q_unknown",
+      "quadrant_label": "Unknown / insufficient rating data"
+    },
+    "risk_badge": {
+      "bdst_risk_level": "AMBER",
+      "risk_label": "Caution advised"
+    },
+    "rationale": {
+      "rules_triggered": [
+        "base_risk_from_hazards:H0",
+        "ESC_04_missing_ratings_uncertainty"
+      ]
+    },
+    "hazards": {
+      "hazard_text_present": false,
+      "hazard_tier": "H0",
+      "hazard_keyword_matches": {
+        "H2": [],
+        "H1": []
+      },
+      "uncategorized_hazard_notes": false,
+      "hazard_notes_excerpt": ""
+    },
+    "bioactivity_flags": {
+      "bioactivity_risk_level": "None",
+      "bioactivity_triggers": []
+    },
+    "uncertainty_and_disclaimer": [
+      "Non-clinical decision support; not medical advice.",
+      "Absence of hazard warnings is not proof of safety.",
+      "Information is dataset-derived and may be incomplete."
+    ]
+  }
+]
